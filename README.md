@@ -1,6 +1,6 @@
 # Business-Performance-Tracker
 
-![](intro.image.jpeg)
+![](https://github.com/rubytechme/Business-Performance-Tracker/blob/main/BMI.jpg)
 ---
 
 ## Introduction:
